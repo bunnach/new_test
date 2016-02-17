@@ -22,7 +22,8 @@
         <activity android:name=".PullActivity" />
         <activity android:name=".SixActivity" />
         <activity android:name=".SevenActivity" />
-        <activity android:name=".NewActivity"></activity>
+        <activity android:name=".NewActivity" />
+        <activity android:name=".RebaseActivity"></activity>
     </application>
 
 </manifest>
