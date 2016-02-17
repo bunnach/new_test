@@ -23,7 +23,8 @@
         <activity android:name=".SixActivity" />
         <activity android:name=".SevenActivity" />
         <activity android:name=".NewActivity" />
-        <activity android:name=".RebaseActivity"></activity>
+        <activity android:name=".RebaseActivity" />
+        <activity android:name=".stageActivity"></activity>
     </application>
 
 </manifest>
