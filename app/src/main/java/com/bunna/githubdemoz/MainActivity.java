@@ -14,5 +14,7 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this, "Hello", Toast.LENGTH_SHORT).show();
 
         // Main edited
+
+        // Stage
     }
 }
